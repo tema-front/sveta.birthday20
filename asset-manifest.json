@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sveta.birthday20/static/css/main.daf356fa.css",
+    "main.js": "/sveta.birthday20/static/js/main.cd1363cd.js",
+    "static/media/backimage.jpg": "/sveta.birthday20/static/media/backimage.d72529efafd68b0e1673.jpg",
+    "static/media/sveta.jpg": "/sveta.birthday20/static/media/sveta.a6b4aa94bd816994a1a3.jpg",
+    "static/media/1920.jpg": "/sveta.birthday20/static/media/1920.8a930a41a02ccc3ba1d2.jpg",
+    "index.html": "/sveta.birthday20/index.html",
+    "main.daf356fa.css.map": "/sveta.birthday20/static/css/main.daf356fa.css.map",
+    "main.cd1363cd.js.map": "/sveta.birthday20/static/js/main.cd1363cd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.daf356fa.css",
+    "static/js/main.cd1363cd.js"
+  ]
+}
